@@ -1,0 +1,15 @@
+footer {
+  width: 100%;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+}
+
+footer img {
+  max-width: 60px;
+  margin: 40px;
+}
+
+footer img:not(:last-child) {
+  margin-right: 10px;
+}
