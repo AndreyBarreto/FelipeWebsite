@@ -7,17 +7,17 @@ const Home = () => {
     <div className="home">
       <div className="title">
         <h1>
-          <p>Descubra como transformar</p>
+          <p>Como melhorar</p>
           <p>suas fotos</p>
           <p>usando apenas o celular</p>
         </h1>
         <Link to="about">
-          <button>Sobre o curso</button>
+          <button>Saiba mais</button>
         </Link>
       </div>
       <div className="person">
         <img
-          src={`${process.env.PUBLIC_URL}/mo-logo.png`}
+          src={`${process.env.PUBLIC_URL}/lipeHome.png`}
           alt="person picture"
         />
       </div>

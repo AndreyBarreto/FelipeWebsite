@@ -6,7 +6,8 @@ const About = () => {
       <h1>Módulos</h1>
       <div className="content">
         <div>
-          <strong>Módulo 1:</strong>
+          <strong>1º Módulo </strong>
+          <iframe width="100%" height="500" src="https://www.youtube.com/embed/p4y4eT1cJ54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <li>Introdução</li>
           <li>Buscando Inspirações</li>
           <li>Fotos em ambiente Interno</li>
@@ -14,24 +15,27 @@ const About = () => {
         </div>
         <div>
           <strong>Módulo 2:</strong>
-          <li>Apps exclusivos</li>
-          <li>Apps para editar suas fotos</li>
-          <li>Apps do momento</li>
-          <li>Apps pouco conhecidos</li>
+          <iframe width="100%" height="500" src="https://www.youtube.com/embed/p4y4eT1cJ54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <li>Introdução</li>
+          <li>Buscando Inspirações</li>
+          <li>Fotos em ambiente Interno</li>
+          <li>Fotos em ambiente Externo</li>
         </div>
         <div>
           <strong>Módulo 3:</strong>
-          <li>Editando no LIGHTROOM</li>
-          <li>Os melhores efeitos no LIGHTROOM</li>
-          <li>Turbinando suas fotos com FACETUNE</li>
-          <li>Edição nativa com seu celular</li>
-          <li>Detone com o SNAPSEED</li>
+          <iframe width="100%" height="500" src="https://www.youtube.com/embed/p4y4eT1cJ54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <li>Introdução</li>
+          <li>Buscando Inspirações</li>
+          <li>Fotos em ambiente Interno</li>
+          <li>Fotos em ambiente Externo</li>
         </div>
         <div>
           <strong>Módulo 4:</strong>
-          <li>Vídeos incríveis com seu celular</li>
-          <li>Edição com telefone</li>
-          <li>Edição de vídeo</li>
+          <iframe width="100%" height="500" src="https://www.youtube.com/embed/p4y4eT1cJ54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <li>Introdução</li>
+          <li>Buscando Inspirações</li>
+          <li>Fotos em ambiente Interno</li>
+          <li>Fotos em ambiente Externo</li>
         </div>
       </div>
     </div>
